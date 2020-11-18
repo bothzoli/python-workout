@@ -132,3 +132,5 @@ cython_debug/
 # VSCode
 .vscode/
 
+# Sample log file for ex06
+!ch02-strings/apache.log
