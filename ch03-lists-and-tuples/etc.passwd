@@ -1,0 +1,11 @@
+# This is just some comment
+root:x:0:0:root:/root:/sbin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var-adm:/sbin/nologin
+abinn:x:1:1:bin:/bin:/sbin/alogin
+daemonn:x:2:2:daemon:/sbin:/sbin/alogin
+admm:x:3:4:adm:/var-adm:/sbin/alogin
+binu:x:1:1:bin:/bin:/sbin/nologin
+daemona:x:2:2:daemon:/sbin:/sbin/nologin
+admi:x:3:4:adm:/var-adm:/sbin/nologin
